@@ -1,0 +1,59 @@
+.heading {
+    position: relative;
+    height: 30vh;
+    background: #baa;
+    align-content: center;
+}
+
+.name-title {
+    font-family: "Lucida Console", Monaco, monospace;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+
+.contact {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    bottom: 30%;
+    transform: translate(7%, 70%); 
+}
+
+.main {
+    position: relative;
+    height: 70vh;
+    background: rgb(195, 212, 212);
+}
+
+.frame {
+    position: absolute;
+    top:30%;
+    left: 35%;
+    transform: translate(-35%, -30%);
+}
+
+.description {
+    /* text-align: center; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    position: absolute;
+    top: 30%;
+    left: 72%;
+    transform: translate(-72%, -30%);
+}
+
+.icons {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, 70%);
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 50px;
+    color: black;
+  }
