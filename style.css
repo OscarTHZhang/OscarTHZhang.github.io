@@ -16,9 +16,11 @@
 .contact {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    position: absolute;
-    bottom: 30%;
-    transform: translate(7%, 70%); 
+    top:90%;
+    left:50%;
+    transform: translate(-50%, -90%);
+    position: absolute
+
 }
 
 .main {
