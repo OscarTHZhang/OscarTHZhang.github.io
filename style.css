@@ -39,7 +39,7 @@
 .description {
     /* text-align: center; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    font-size: 16px;
     position: absolute;
     top: 30%;
     left: 72%;
