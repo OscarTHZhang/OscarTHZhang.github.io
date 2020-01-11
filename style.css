@@ -8,6 +8,7 @@
 .name-title {
     font-family: "Lucida Console", Monaco, monospace;
     position: absolute;
+    font-size: 7vh;
     top: 30%;
     left: 50%;
     transform: translate(-50%, -30%);
@@ -16,6 +17,7 @@
 .contact {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.1vh;
     top:90%;
     left:50%;
     transform: translate(-50%, -90%);
@@ -39,7 +41,7 @@
 .description {
     /* text-align: center; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 16px;
+    font-size: 2vh;
     position: absolute;
     top: 30%;
     left: 72%;
@@ -54,8 +56,8 @@
 }
 
 .fa {
-    padding: 20px;
-    font-size: 40px;
-    width: 50px;
+    padding: 3vh;
+    font-size: 6vh;
+    width: 10vh;
     color: black;
   }
