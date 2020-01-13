@@ -1,4 +1,5 @@
-# Anonymous
-Shitty one-page personal website <br />
-Short description with a stupid laughing photo as the profile photo <br />
+# Personal Website for OscarTHZhang
+Semi-social + semi-professional. Made with simple Bootstrap template. <br>
+
+## Do not blame me because I am not a UI/UX desiger!!!
 
