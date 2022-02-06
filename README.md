@@ -1,5 +1,2 @@
-# Personal Website for OscarTHZhang
-Semi-social + semi-professional. Made with simple Bootstrap template. <br>
-
-<b> Do not blame me because I am not a UI/UX desiger!!!
-
+Oscar's personal webpage hosted by GitHub pages <br />
+[oscarthzhang.github.io](https://oscarthzhang.github.io/)
